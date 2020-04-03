@@ -1,0 +1,26 @@
+{
+  "name": "sanity-plugin-light-theme",
+  "version": "1.0.0",
+  "description": "Light theme for Sanity Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\\\\\"Error: no test specified\\\\\\\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajzeller/sanity-plugin-light-theme.git"
+  },
+  "keywords": [
+    "sanity",
+    "studio",
+    "CMS",
+    "light",
+    "theme"
+  ],
+  "author": "Andrew Zeller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajzeller/sanity-plugin-light-theme/issues"
+  },
+  "homepage": "https://github.com/ajzeller/sanity-plugin-light-theme#readme"
+}
